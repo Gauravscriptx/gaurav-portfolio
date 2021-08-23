@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
 
 :root {
   --primary-color: #6ee7b7;
@@ -31,8 +31,11 @@ hr {
   border-radius: 5rem;
   color: white;
 }
+.link-center {
+  text-align: center;
+}
 .link-secondary {
-  color: var(--primary-color);
+  color: black;
   border-radius: 5rem;
   border: 1px solid var(--primary-color);
 }
@@ -93,10 +96,10 @@ hr {
 }
 /* footer */
 .footer {
-  padding: 2rem 1rem;
+  padding: 5rem 1rem;
   background-color: var(--primary-color);
   text-align: center;
-  color: white;
+  color: black;
   border-top-right-radius: 1rem;
 }
 .footer .footer-header {
@@ -104,7 +107,7 @@ hr {
   font-size: 1.2rem;
 }
 .footer .link {
-  color: white;
+  color: black;
 }
 .footer ul {
   margin-inline-start: 0px;
