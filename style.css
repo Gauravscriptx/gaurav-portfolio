@@ -86,7 +86,7 @@ hr {
 }
 /* sections */
 .section {
-  padding: 1rem;
+  padding: 2rem;
 }
 .section h1 {
   text-align: center;
@@ -114,4 +114,8 @@ hr {
 }
 .projecta {
   text-align: center;
+  padding: 1rem;
+}
+.project-list {
+  padding-bottom: 3.5rem;
 }
