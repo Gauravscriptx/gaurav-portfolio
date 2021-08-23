@@ -27,7 +27,7 @@ hr {
   padding: 0.5rem 1rem;
 }
 .link-primary {
-  background-color: var(--primary-color);
+  background-color: #059669;
   border-radius: 5rem;
   color: white;
 }
