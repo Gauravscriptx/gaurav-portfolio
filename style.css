@@ -119,3 +119,11 @@ hr {
 .project-list {
   padding-bottom: 3.5rem;
 }
+ul.projecta {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+li {
+  flex: 0 0 auto;
+}
