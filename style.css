@@ -130,3 +130,8 @@ ul.projecta {
 li {
   flex: 0 0 auto;
 }
+.project-lista {
+  padding: 1rem;
+  max-width: 580px;
+  margin: auto;
+}
